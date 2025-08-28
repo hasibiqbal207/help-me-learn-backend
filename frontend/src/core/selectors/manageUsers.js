@@ -1,1 +1,0 @@
-export const getUsersList = (state) => state.manageUsers.data;
